@@ -15,3 +15,5 @@ I am currently self teaching myself Python
 
 📫 How to Reach Me
 📧 Email: keamkim06@gmail.com
+
+Im also intrested in growing my network and learning more
