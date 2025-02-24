@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Mark Kimani Ng'ang'a
-I'm a passionate learner and aspiring software developer who just finished high school. I have a growing interest in codingy. I'm currently focusing on improving my Python skills and exploring different areas of software development.
+I'm a passionate learner and aspiring software developer who just finished high school. I have a growing interest in coding. I'm currently focusing on improving my Python skills and exploring different areas of software development.
 
 My Learning Goals:
 Strengthening my Python programming skills
