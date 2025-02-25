@@ -6,7 +6,7 @@ I'm a passionate learner and aspiring software developer who just finished high 
 *   🌍  I'm based in Kenya
 *   ✉️  You can contact me at [keamkim06@gmail.com](mailto:keamkim06@gmail.com)
 *   🧠  I'm learning Strengthening my Python programming skills Learning HTML, CSS, and JavaScript for web development learning cyber security learning game deveopment
-*   ⚡  Im also intrested in growing my network and learning more### Skills 
+*   ⚡  Im also intrested in growing my network and learning more skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
                     </p>
